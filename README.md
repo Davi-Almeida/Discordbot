@@ -32,11 +32,11 @@ __Message.author__
 <br>
 // Npm = ([N]ode - [P]ackage - [M]anager) é o literal do nome, você pode gerenciar pacotes atráves do npm
 <br>
-// i = install / discord.js = package a ser instalada, básicamente (npm instale discord.js)
+// i = install / discord.js = package a ser instalada, básicamente (npm instale discord.js)<br>
 <br>
 <br>
 // Crie um arquivo chamado 'config.json' para importar coisas como(prefix, token)<br>
-// config.json => {
+// config.json => {<br>
 // "prefix": "!" <br>
 // Coloquei ! por padrão, totalmente customizavel o prefix, letra e número, etc. ex(s!),(.),(=),(%),(;)<br>
 // "token": "token-do-bot"<br>
