@@ -73,7 +73,7 @@ __Message.author__
 // <br>
 // <br>
 
-**Rodando o bot**
+**Rodando o bot**<br>
 // Basta iniciar no terminal, usando: node .<br>
 // Ou inicie por : node index.js<br>
 // Ou você pode instalar a package do nodemon(Recomendo mais futuramente)<br>
