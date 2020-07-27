@@ -23,7 +23,7 @@ __Message.author__
 
 `Baixe o nodejs no seu computador, para podermos rodar comandos como "npm" e baixar a lib do discord.js!`
 <br>
-`Primeiramente abrimos o 'terminal' do qual editor estamos usando, seja vscode, vim, notepad, começamos com um` **npm init -y** <br> Para gerar automáticamente um primeiro arquivo de configuração
+`Primeiramente abrimos o 'terminal' do qual editor estamos usando, seja vscode, vim começamos com um` **npm init -y** <br> Para gerar automáticamente um primeiro arquivo de configuração
 <br>
 // Npm init -y (Básicamente pedimos ao npm, que gere uma configuração atual, automática, irá aparecer um 'package.json'
 <br>
